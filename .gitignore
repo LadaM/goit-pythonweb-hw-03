@@ -21,3 +21,6 @@ Thumbs.db
 
 # Jupyter Notebook checkpoints
 .ipynb_checkpoints/
+
+# ignoring the storage folder
+storage/
